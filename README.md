@@ -1,6 +1,6 @@
 # Flexbox-Froggy
 
-![My Work](FLEXBOX FROGGY.png)
+![My Work](FLEXBOX-FROGGY.png)
 
 ## Game Link
 [FLEXBOX FROGGY](https://flexboxfroggy.com/)
